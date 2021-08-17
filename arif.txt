@@ -1,0 +1,8 @@
+anything i can write text(txt)
+
+html extension is html
+
+- two angle brackets(<>) and a tagname: <tagname>
+- start tag <tagname> 
+- end tag </tagname>
+e.g: <arif> hello </arif>
